@@ -1,5 +1,5 @@
 # FizzBuzz
-A basic training program written in Python.  
+A basic training program written in C#.  
 This does the following:
 - Iterates through all numbers from 1 to 100
 - If the number is divisible by 3, it prints the number and "Fizz!"
